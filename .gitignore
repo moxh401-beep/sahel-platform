@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.venv/
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+.DS_Store
+
+# General
+*.log
+*.sqlite3
+*.env
+.idea/
+.vscode/
