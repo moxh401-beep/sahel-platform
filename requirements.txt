@@ -1,0 +1,11 @@
+fastapi
+opencv-python
+torch
+pytesseract
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+nltk
